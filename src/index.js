@@ -99,8 +99,9 @@ const normWeights = normalize(weights);
 const geometricOutput = dotProduct(normInputs, normWeights);
 
 
+
 // ===============================
-// LOGS (RESULTADOS)
+// logs (results)
 // ===============================
 
 console.log("===== NEURÔNIO CLÁSSICO =====");
@@ -114,3 +115,4 @@ console.log("Ângulo (graus):", angle * (180 / Math.PI));
 
 console.log("\n===== NEURÔNIO GEOMÉTRICO =====");
 console.log("Saída (vetores normalizados):", geometricOutput);
+
