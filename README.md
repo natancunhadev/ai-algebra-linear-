@@ -75,6 +75,9 @@ https://blog.devops.dev/exploring-activation-functions-in-deep-learning-properti
 ```bash
 node src/index.js
 
+
+Resultado final da pesquisa e considerações: 
+
 ===== NEURÔNIO CLÁSSICO =====
 Produto escalar: 3.3
 Saída com ReLU: 3.3
