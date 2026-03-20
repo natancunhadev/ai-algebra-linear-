@@ -1,4 +1,4 @@
-# Álgebra Linear - Inteligência Artificial  
+# Álgebra Linear - Inteligência Artificial  v1.2
 ### Uma Interpretação Geométrica da Computação Neural em JavaScript
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
@@ -18,6 +18,7 @@ seu mecanismo fundamental:
 
 > Um neurônio é, essencialmente, um **operador geométrico** que mede o alinhamento entre vetores.
 
+> Nessa versão 1.2 criamos um modulo, onde plotaremos vetores inputs e weigths, espaço 3D, Visualizar o alinhamento entre eles, e representar o conceito geométrico da nossa pesquisa. Ultilizamos a bibilioteca Ploty para gerar o os gráficos para ter uma visualização científica e entendimento geométrico real.
 ---
 
 ## Fundamento Matemático
