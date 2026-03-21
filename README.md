@@ -68,6 +68,20 @@ Referência:
 Stanford University - Introduction to Applied Linear Algebra -  https://web.stanford.edu/~boyd/vmls/vmls.pdf, Gilbert Strang - https://rksmvv.ac.in/wp-content/uploads/2021/04/Gilbert_Strang_Linear_Algebra_and_Its_Applicatio_230928_225121.pdf, OXFORD - Department Of Computer Science, LINEAR ALGEBRA Jim Hefferon - https://www.cs.ox.ac.uk/files/12921/book.pdf, Exploring Activation Functions in Deep Learning: Properties, Derivatives, and Impact on Model Training - 
 https://blog.devops.dev/exploring-activation-functions-in-deep-learning-properties-derivatives-and-impact-on-model-7585aad8a757
 
+---
+
+Perspectiva Científica:
+
+Esta implementação evidencia que:
+
+Um neurônio realiza uma projeção em espaço vetorial
+
+Funções de ativação introduzem não linearidade no modelo
+
+O aprendizado corresponde à otimização de alinhamento entre vetores.
+
+
+
 
 
 ## Execução
@@ -88,18 +102,6 @@ Similaridade (cosθ): 0.98
 
 ===== NEURÔNIO GEOMÉTRICO =====
 Saída: 0.98
-
----
-
-Perspectiva Científica:
-
-Esta implementação evidencia que:
-
-Um neurônio realiza uma projeção em espaço vetorial
-
-Funções de ativação introduzem não linearidade no modelo
-
-O aprendizado corresponde à otimização de alinhamento entre vetores.
 
 
 
