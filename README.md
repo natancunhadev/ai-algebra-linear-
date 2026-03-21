@@ -70,19 +70,21 @@ https://blog.devops.dev/exploring-activation-functions-in-deep-learning-properti
 
 ---
 
-Perspectiva Científica:
+Perspectiva Científica
 
 Esta implementação evidencia que:
 
-Um neurônio realiza uma projeção em espaço vetorial
+*Um neurônio realiza uma projeção em espaço vetorial
+*Funções de ativação introduzem não linearidade no modelo
+*O aprendizado corresponde à otimização de alinhamento entre vetores.
 
-Funções de ativação introduzem não linearidade no modelo
+Autor
 
-O aprendizado corresponde à otimização de alinhamento entre vetores.
+Natan de Souza Cunha
+Engenharia de Software | Pesquisador
+@natancunhadev
 
-
-
-
+Copyright - Todos os direitos reservados. 2026
 
 ## Execução
 
@@ -106,7 +108,4 @@ Saída: 0.98
 
 
 
-Autor
 
-Natan de Souza Cunha
-Engenharia de Software | Pesquisador
