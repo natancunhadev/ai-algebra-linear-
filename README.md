@@ -74,17 +74,17 @@ Perspectiva Científica
 
 Esta implementação evidencia que:
 
-*Um neurônio realiza uma projeção em espaço vetorial
-*Funções de ativação introduzem não linearidade no modelo
-*O aprendizado corresponde à otimização de alinhamento entre vetores.
+- *Um neurônio realiza uma projeção em espaço vetorial
+- *Funções de ativação introduzem não linearidade no modelo
+- *O aprendizado corresponde à otimização de alinhamento entre vetores.
 
 Autor
 
-Natan de Souza Cunha
-Engenharia de Software | Pesquisador
-@natancunhadev
+- Natan de Souza Cunha
+- Engenharia de Software | Pesquisador
+- @natancunhadev
 
-Copyright - Todos os direitos reservados. 2026
+- Copyright - Todos os direitos reservados. 2026
 
 ## Execução
 
