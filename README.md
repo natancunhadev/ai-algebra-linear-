@@ -85,6 +85,7 @@ Autor
 - @natancunhadev
 
 - Copyright - Todos os direitos reservados. 2026
+- Estudo baseado em evidências. 
 
 ## Execução
 
