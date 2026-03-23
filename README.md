@@ -23,17 +23,17 @@ seu mecanismo fundamental:
 ## Fundamento Matemático
 
 Um neurônio computa:
-y = w₁x₁ + w₂x₂ + ... + wₙxₙ
+[ y = w₁x₁ + w₂x₂ + ... + wₙxₙ ]
 
 
 Isso é equivalente ao **produto escalar**:
-y = x · w
+[ y = x · w ]
 
 ---
 
 ## Interpretação Geométrica
 
-y = ||x|| · ||w|| · cos(θ)
+[ y = ||x|| · ||w|| · cos(θ) ]
 
 
 Onde:
