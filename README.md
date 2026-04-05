@@ -6,7 +6,7 @@
 ![Math](https://img.shields.io/badge/Álgebra%20Linear-core-blue)
 ![Status](https://img.shields.io/badge/status-orientado%20à%20pesquisa-black)
 
----
+----
 
 ## Visão Geral
 
